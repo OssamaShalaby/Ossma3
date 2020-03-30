@@ -63,6 +63,7 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     color: #fff;
+    height: 750px;
 }
 
 .header .navbar {
