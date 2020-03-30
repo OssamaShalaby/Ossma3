@@ -16,15 +16,6 @@ body {
     position: relative;
 }
 
-.table {
-    height: 100%;
-    display: table;
-}
-
-.table-row {
-    display: table-row;
-}
-
 .text-center {
     text-align: center;
 }
@@ -77,10 +68,6 @@ body {
 .header .navbar {
     overflow: hidden;
     padding: 20px 0;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
 }
 
 .header .navbar .logo {
@@ -93,6 +80,10 @@ body {
 
 .header .navbar .links i {
     margin-left: 10px;
+}
+
+.header .intro {
+    margin-top: 100px;
 }
 
 .header .intro h1 {
